@@ -16,7 +16,7 @@
 <img align="left" alt="SQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Blender" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"/>
-<img align="left" alt="Java" width="46px" src ="https://logodownload.org/wp-content/uploads/2017/04/java-logo-1.png " />
+<img align="left" alt="Java" width="46px" src ="https://logodownload.org/wp-content/uploads/2017/04/java-logo-1.png "/>
 
 <br/>
 <br/>
