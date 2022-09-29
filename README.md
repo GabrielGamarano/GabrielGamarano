@@ -1,4 +1,4 @@
-### Hello there, I'm Gabriel - aka Vvlpvs 👋
+### Hello there, I'm Gabriel  👋
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other creators
